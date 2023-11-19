@@ -1,5 +1,6 @@
 import mongoose from "mongoose";
 
+// User sablon for db
 const userSchema = new mongoose.Schema(
   {
     username: {
